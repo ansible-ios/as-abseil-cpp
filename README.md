@@ -1,3 +1,12 @@
+# as-abseil-cpp
+
+Ansible Messenger — базовые библиотеки C++.
+
+> [!NOTE]
+> **Происхождение кода.** Форк [macosswift/abseil-cpp](https://github.com/macosswift/abseil-cpp), который сопровождает проект Ansible Messenger. Сведения об авторах и лицензиях приведены в исходной документации.
+
+## Документация исходного проекта
+
 # Abseil - C++ Common Libraries
 
 The repository contains the Abseil C++ library code. Abseil is an open-source
